@@ -1,0 +1,57 @@
+Uploaded 13 documents (one per page)
+ Waiting for document c9ab4f68-c3c7-499a-a8a2-3895414e5a41 to finish indexing...
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: pending
+Status: processing
+Status: processing
+Status: processing
+Status: processing
+Status: available
+ Document c9ab4f68-c3c7-499a-a8a2-3895414e5a41 is indexed and ready!
+ Waiting for document 9ff46878-923a-459f-b98b-c715ab1ec4af to finish indexing...
+Status: available
+ Document 9ff46878-923a-459f-b98b-c715ab1ec4af is indexed and ready!
+ Waiting for document 35e4efd4-4eff-4c97-89c7-bd17cffcef46 to finish indexing...
+Status: available
+ Document 35e4efd4-4eff-4c97-89c7-bd17cffcef46 is indexed and ready!
+ Waiting for document a4783914-279e-42ee-b58f-e2836caed68c to finish indexing...
+Status: available
+ Document a4783914-279e-42ee-b58f-e2836caed68c is indexed and ready!
+ Waiting for document 10b33347-aa65-4c62-94b3-fc7234b8fc3f to finish indexing...
+Status: available
+ Document 10b33347-aa65-4c62-94b3-fc7234b8fc3f is indexed and ready!
+ Waiting for document 266755cb-618b-436f-99f3-7db4bbf6898b to finish indexing...
+Status: available
+ Document 266755cb-618b-436f-99f3-7db4bbf6898b is indexed and ready!
+ Waiting for document 1349e2b4-e8b5-485a-8aac-b8f65fe686bc to finish indexing...
+Status: available
+ Document 1349e2b4-e8b5-485a-8aac-b8f65fe686bc is indexed and ready!
+ Waiting for document 93bb3491-8b41-4d5d-9211-0ab7440756b6 to finish indexing...
+Status: available
+ Document 93bb3491-8b41-4d5d-9211-0ab7440756b6 is indexed and ready!
+ Waiting for document 33984b52-09e8-4c51-a9e3-dc366c174f18 to finish indexing...
+Status: available
+ Document 33984b52-09e8-4c51-a9e3-dc366c174f18 is indexed and ready!
+ Waiting for document ed444533-14f1-48bd-bfdd-a8930c32f09e to finish indexing...
+Status: available
+ Document ed444533-14f1-48bd-bfdd-a8930c32f09e is indexed and ready!
+ Waiting for document 15be74e5-5c04-4445-9b27-6183c368cc28 to finish indexing...
+Status: available
+ Document 15be74e5-5c04-4445-9b27-6183c368cc28 is indexed and ready!
+ Waiting for document aeb8a5a3-4011-4a23-a9a4-baae2c2be6f2 to finish indexing...
+Status: available
+ Document aeb8a5a3-4011-4a23-a9a4-baae2c2be6f2 is indexed and ready!
+ Waiting for document cb9a1741-9218-4308-b021-a0f1b95ce369 to finish indexing...
+Status: available
+ Document cb9a1741-9218-4308-b021-a0f1b95ce369 is indexed and ready!
